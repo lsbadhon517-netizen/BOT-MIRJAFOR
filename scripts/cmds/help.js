@@ -63,7 +63,7 @@ module.exports = {
                                        `Type ${prefix}help <cmd> to see details.`;
 
                         msg += `\n\n⭔ Total Commands: ${totalCommands}\n⭔ ${helpHint}\n`;
-                        msg += `\n╭─✦ ADMIN: MahMUD 彡\n├‣ WHATSAPP\n╰‣ 01836298139`;
+                        msg += `\n╭─✦ ADMIN: Ariyan 彡\n├‣ Messenger\n╰‣ m.me/FU3K.Y0U`;
 
                         try {
                                 const hh = await message.reply({ body: msg });
